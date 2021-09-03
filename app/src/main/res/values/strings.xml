@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atividade1</string>
+    <string name="email_address">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="password_confirm">Confirmar Senha</string>
+    <string name="name">Nome</string>
+    <string name="birth_date">Data de Nascimento</string>
+</resources>
